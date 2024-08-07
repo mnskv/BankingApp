@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "accountNumber": "123456789",
+      "fullName": "John Doe",
+      "email": "john@example.com",
+      "phone": "123-456-7890",
+      "address": "123 Main St",
+      "city": "Anytown",
+      "state": "Anystate",
+      "zip": "12345",
+      "country": "Country",
+      "dob": "1990-01-01",
+      "initialDeposit": 1000,
+      "password": "password",
+      "accountType": "savings",
+      "lastLogin": "2024-01-01T12:00:00Z"
+    },
+    {
+      "id": "8904",
+      "accountNumber": "6133ad49-d2e8-444e-a194-a32db40881f4",
+      "fullName": "Siva Chaitanya Batta",
+      "email": "use@example.com",
+      "phone": "08217063487",
+      "address": "S/O of gopi,",
+      "city": "Nellore",
+      "state": "Andhra Pradesh",
+      "zip": "524101",
+      "country": "India",
+      "dob": "2024-08-09",
+      "initialDeposit": 300,
+      "password": "siva",
+      "accountType": "current",
+      "lastLogin": "2024-08-07T06:47:45.707Z"
+    },
+    {
+      "id": "1bc3",
+      "accountNumber": "ac729444-24aa-41ed-bb4c-5ef8243a6d6a",
+      "fullName": "mns",
+      "email": "use@example.com",
+      "phone": "9876543527",
+      "address": "banglore",
+      "city": "bangalore",
+      "state": "karnataka",
+      "zip": "563161",
+      "country": "india",
+      "dob": "2024-08-12",
+      "initialDeposit": 100000,
+      "password": "siva",
+      "accountType": "current"
+    },
+    {
+      "id": "f7ad",
+      "accountNumber": "11af2b03-0a8d-4509-9857-d4fd677ba53d",
+      "fullName": "mns",
+      "email": "mns@example.com",
+      "phone": "9876543527",
+      "address": "banglore",
+      "city": "bangalore",
+      "state": "karnataka",
+      "zip": "563161",
+      "country": "india",
+      "dob": "2024-08-15",
+      "initialDeposit": 99900,
+      "password": "siva",
+      "accountType": "current",
+      "lastLogin": "2024-08-07T06:55:53.803Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "1",
+      "accountNumber": "123456789",
+      "date": "2024-07-31",
+      "description": "Deposit",
+      "amount": 500,
+      "type": "Credit"
+    },
+    {
+      "id": "6efb",
+      "userId": "8904",
+      "date": "2024-08-07T06:33:46.476Z",
+      "amount": 200,
+      "description": "Deposit"
+    }
+  ]
+}
